@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/baryshevandriy/aston-task-manager/static/css/main.bf750201.css",
+    "main.js": "/baryshevandriy/aston-task-manager/static/js/main.2a56d1a2.js",
+    "index.html": "/baryshevandriy/aston-task-manager/index.html",
+    "main.bf750201.css.map": "/baryshevandriy/aston-task-manager/static/css/main.bf750201.css.map",
+    "main.2a56d1a2.js.map": "/baryshevandriy/aston-task-manager/static/js/main.2a56d1a2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf750201.css",
+    "static/js/main.2a56d1a2.js"
+  ]
+}
